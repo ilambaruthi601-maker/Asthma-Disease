@@ -1,0 +1,21 @@
+Dataset Shape
+(300, 13)
+
+Columns
+['Age', 'Gender', 'BMI', 'Smoking', 'FamilyHistory', 'Wheezing', 'Cough', 'ShortnessOfBreath', 'ChestTightness', 'OxygenLevel', 'EosinophilCount', 'PeakExpiratoryFlow', 'Asthma']
+
+Data Types
+Age                     int64
+Gender                    str
+BMI                   float64
+Smoking                 int64
+FamilyHistory           int64
+Wheezing                int64
+Cough                   int64
+ShortnessOfBreath       int64
+ChestTightness          int64
+OxygenLevel             int64
+EosinophilCount         int64
+PeakExpiratoryFlow      int64
+Asthma                  int64
+dtype: object
